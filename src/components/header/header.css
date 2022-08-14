@@ -63,7 +63,7 @@
 }
 
 .headerIcon{
-    color: lightgray;
+    color: gray;
 }
 
 .headerSearchItem{
@@ -78,7 +78,15 @@
 }
 
 .headerSearchText{
-    color: lightgray;
+    color: gray;
+    cursor: pointer;
+}
+.headerBtnItem {
+    background-color: #0071c2;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 17px 30px;
     cursor: pointer;
 }
 
